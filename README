@@ -1,2 +1,23 @@
-This is the Hello World example from the git tutorial.
-(Changed in the original and pushed to shared)
+# Знакомство с Git
+ЛР00
+function task00() {
+Устанавливаем Git
+В терминале выполняем команду git --version. Должны получить вывод вида:
+git version x.y.z
+}
+function task01() {
+Читаем о системах контроля версий (https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9)
+Читаем о трех состояниях файла (https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git#_%D0%A2%D1%80%D0%B8_%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F)
+Выполняем задания 1-20 (https://githowto.com/ru)
+Для пользователей Windows: вместо команды touch hello.html можно использовать echo > hello.html
+}
+function task02() {
+Читаем о ветвлении (https://git-scm.com/book/ru/v2/%D0%92%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-Git-%D0%9E-%D0%B2%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8-%D0%B2-%D0%B4%D0%B2%D1%83%D1%85-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%85)
+Выполняем задания 24-49 (https://githowto.com/ru/creating_a_branch)
+}
+function task03() {
+Регистрируемся на Github
+Создаем на Github репозиторий cwp-00 и подключаем его как удаленный
+Отправляем все локальные ветки в репозиторий на Github
+Для облегчения работы в следующих заданиях может использоваться любой графический интрефейс для Git, например, SourceTree
+}
